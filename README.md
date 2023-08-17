@@ -3,6 +3,7 @@
 
 ### **Biography**
 ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro Data Scientist.
+
 EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future Data Scientist.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p>
 
