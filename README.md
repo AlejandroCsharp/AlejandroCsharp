@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-ceccheto-59a8a1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alejandro-ceccheto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/323069/alejandro-ceccheto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
 <a href="https://kaggle.com/alejandrocsharp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandrocsharp" height="30" width="40" /></a>
 <a href="https://instagram.com/ale_calm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale_calm" height="30" width="40" /></a>
 <a href="https://medium.com/@alejandroceccheto20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alejandroceccheto20" height="30" width="40" /></a>
