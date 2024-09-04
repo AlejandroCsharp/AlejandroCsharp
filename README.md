@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ceccheto</h1>
-<h3 align="center">A passionate Data Scientist from Argentine</h3>
+<h3 align="center">A passionate Data Analyst Jr. from Argentine</h3>
 
 ### **Biography**     
 ---
-ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro Data Scientist.
+ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro Data Analyst.
 
-EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future Data Scientist.
+EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future Data Analyst.
 
 <a href="https://app.daily.dev/AlejandroCsharp"><img src="https://api.daily.dev/devcards/c3dfcea3e2834bc8905d0054bec2a2c3.png?r=pnm" width="300" alt="Alejandro M. Ceccheto's Dev Card" align="right"/></a>
 
@@ -13,6 +13,7 @@ EN: Alejandro Ceccheto, Tecnical in Management and administration of organizatio
 ### **Projects / Proyectos:**
 ---
 Análisis Predictivo de Ventas: Desarrollo de un modelo de predicción de ventas utilizando técnicas de regresión, aumentando la precisión de pronósticos en un 20%.
+
 Dashboard de KPIs Financieros: Creación de un dashboard interactivo para la visualización de métricas clave de la empresa, facilitando la toma de decisiones estratégicas.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p>
