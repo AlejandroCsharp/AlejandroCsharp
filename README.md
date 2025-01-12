@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ceccheto</h1>
-<h3 align="center">A passionate IT Support t Jr. from Argentine</h3>
+<h3 align="center">A passionate IT Support it Jr. from Argentine</h3>
 
 ### **Biography**     
 ---
