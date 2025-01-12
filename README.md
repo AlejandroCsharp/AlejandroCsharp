@@ -8,7 +8,7 @@ ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizacion
 EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future IT Support.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p> %%
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-ceccheto-59a8a1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
