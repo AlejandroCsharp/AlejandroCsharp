@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alejandro Ceccheto</h1>
-<h3 align="center">A passionate Data Analyst Jr. from Argentine</h3>
+<h3 align="center">A passionate IT Support t Jr. from Argentine</h3>
 
 ### **Biography**     
 ---
-ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro Data Analyst.
+ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro IT Support.
 
-EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future Data Analyst.
-
-
+EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future IT Support.
 
 
-### **Projects / Proyectos:**
----
-Análisis Predictivo de Ventas: Desarrollo de un modelo de predicción de ventas utilizando técnicas de regresión, aumentando la precisión de pronósticos en un 20%.
-
-Dashboard de KPIs Financieros: Creación de un dashboard interactivo para la visualización de métricas clave de la empresa, facilitando la toma de decisiones estratégicas.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p> %%
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alejandro-ceccheto-59a8a1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
