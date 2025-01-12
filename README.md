@@ -7,7 +7,7 @@ ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizacion
 
 EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future Data Analyst.
 
-<a href="https://app.daily.dev/AlejandroCsharp"><img src="https://api.daily.dev/devcards/c3dfcea3e2834bc8905d0054bec2a2c3.png?r=pnm" width="300" alt="Alejandro M. Ceccheto's Dev Card" align="right"/></a>
+
 
 
 ### **Projects / Proyectos:**
