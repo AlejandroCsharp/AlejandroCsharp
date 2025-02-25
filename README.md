@@ -27,13 +27,13 @@ I'm a IT in current formation, Argentina
 </tr>
 <tr>
 	<td>Networking</td>
-	<td><img widht="100px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/kisspng-computer-icons-data-computer-network-share-icon-5afa8dbc763e86.2089853215263697244843.png"></td>
+	<td><img width="200" height="200" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/kisspng-computer-icons-data-computer-network-share-icon-5afa8dbc763e86.2089853215263697244843.png"></td>
         <td>No REF</td>
 
 </tr>
 <tr>
 	<td>Personal Projects</td>
-	<td><img widht="100px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/8de865d66660667187b5083d5bb3c860.png"></td>
+	<td><img width="200" height="200" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/8de865d66660667187b5083d5bb3c860.png"></td>
         <td>No REF</td>
 
 </tr>
