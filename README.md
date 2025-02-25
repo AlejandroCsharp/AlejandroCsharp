@@ -3,24 +3,24 @@ I'm a IT in current formation, Argentina
 
 <div align="center">
 <table>
-
+[comment]: <> (1er row)
 <tr>
 	<th> Field </th>
 	<th> Preview </th>
 	<th> Link </th>
 </tr>
-	
+[comment]: <> (2do row)	
 <tr>
 	<td>Linux</td>
 	
 </tr>
-
+[comment]: <> (3er row)
 <tr>
 	<td>LaTeX</td>
 	<td><img width="150px" src="https://github.com/HTsuyoshi/nier-automata-latex-template/blob/main/output.png?raw=true"></td>
-	<td><a href="[https://github.com/AlejandroCsharp/Math-Guide]">Math-Guide</a>
+	<td><a href="https://github.com/AlejandroCsharp/Math-Guide">Math-Guide</a>
 </tr>
-[comment]: <> (This is a comment, it will not be included)
+[comment]: <> (4th row)
 <tr>
 	<td>Security</td>
 	<td>No preview</td>
