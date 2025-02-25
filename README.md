@@ -17,7 +17,7 @@ I'm a IT in current formation, Argentina
 <tr>
 	<td>LaTeX</td>
 	<td><img width="150px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/LaTeX_logo.svg.png"></td>
-	<td><a href="https://github.com/AlejandroCsharp/Math-Guide">Math-Guide</a>, 
+	<td><a href="https://github.com/AlejandroCsharp/Math-Guide">Math-Guide</a>, <br>
 		<a href="https://github.com/AlejandroCsharp/random-faculty">Random-Faculty</a></td>
 	
 </tr>
