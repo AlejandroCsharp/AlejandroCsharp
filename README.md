@@ -17,7 +17,7 @@ I'm a IT in current formation, Argentina
 [comment]: <> (3er row)
 <tr>
 	<td>LaTeX</td>
-	<td><img width="150px" src="https://github.com/HTsuyoshi/nier-automata-latex-template/blob/main/output.png?raw=true"></td>
+	<td><img width="150px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/LaTeX_logo.svg.png"></td>
 	<td><a href="https://github.com/AlejandroCsharp/Math-Guide">Math-Guide</a>
 </tr>
 [comment]: <> (4th row)
