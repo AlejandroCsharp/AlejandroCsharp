@@ -1,23 +1,67 @@
-<h1 align="center">Hi 👋, I'm Alejandro Ceccheto</h1>
-<h3 align="center">A passionate IT Support it Jr. from Argentine</h3>
+I'm a System Information undergraduate at University of São Paulo (USP), Brazil.
 
-### **Biography**     
----
-ES: Alejandro Ceccheto, Tecnico en Gestion y administración de las organizaciones, Profesor de Ciencias Exactas, y futuro IT Support.
+I used to play tetris at [tetr.io](https://ch.tetr.io/u/doom_azz) (S+ ranking, 2021). Lets play tetris! :D
 
-EN: Alejandro Ceccheto, Tecnical in Management and administration of organizations, Professor of Exact Sciences, and future IT Support.
+<div align="center">
+<table>
 
+<tr>
+	<th> Field </th>
+	<th> Preview </th>
+	<th> Link </th>
+</tr>
+	
+<tr>
+	<td>Linux</td>
+	<td><img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/my-dwm/main/assets/desktop_low.gif">
+	<img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/bspwm-config/main/assets/screenshot-mirage.png"></td>
+	<td><a href="https://github.com/HTsuyoshi/my-dwm">DWM</a>, <a href="https://github.com/HTsuyoshi/bspwm-config">BSPWM</a>, <a href="https://github.com/HTsuyoshi/dotfiles"> dotfiles </a></td>
+</tr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrocsharp&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocsharp" /> </p> 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejandro-ceccheto-59a8a1255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21373820/alejandro-ceccheto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alejandro-ceccheto" height="30" width="40" /></a>
-<a href="https://kaggle.com/alejandrocsharp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alejandrocsharp" height="30" width="40" /></a>
-<a href="https://instagram.com/ale_calm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale_calm" height="30" width="40" /></a>
-<a href="https://medium.com/@alejandroceccheto20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alejandroceccheto20" height="30" width="40" /></a>            
-</p>
+<tr>
+	<td>LaTeX</td>
+	<td><img width="150px" src="https://github.com/HTsuyoshi/nier-automata-latex-template/blob/main/output.png?raw=true"></td>
+	<td><a href="https://github.com/HTsuyoshi/nier-automata-latex-template">Nier Automata LaTeX Template</a>
+</tr>
+	
+<tr>
+	<td>Web</td>
+	<td><img width="150px" src="https://github.com/HTsuyoshi/Htsuyoshi.github.io/blob/main/_assets/web_site_low.gif?raw=true">
+	<img width="150px" src="https://github.com/HTsuyoshi/lyrics/blob/main/easing.gif?raw=true"></td>
+	<td><a href="https://www.htsuyoshiy.online">website</a>, <a href="https://playground.htsuyoshiy.online">playground</a></td>
+</tr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+<tr>
+	<td>Game dev</td>
+	<td><img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/py-tetris/main/tetris_low.gif">
+	<img width="150px" src="https://github.com/HTsuyoshi/py-game-playground/raw/main/assets/rps.gif"></td>
+	<td><a href="https://github.com/HTsuyoshi/py-tetris">tetris</a></td>
+</tr>
+
+<tr>
+	<td>Security</td>
+	<td>No preview</td>
+	<td><a href="https://github.com/HTsuyoshi/write-ups">CTF</a>, <a href="https://github.com/HTsuyoshi/usp/tree/master/MAC0336/">usp subject</a></td>
+</tr>
+
+<tr>
+	<td>OpenGL</td>
+	<td><img width="150px" src="https://raw.githubusercontent.com/HTsuyoshi/opengl-playground/main/opengl_low.gif"></td>
+	<td><a href="https://github.com/HTsuyoshi/opengl-playground">opengl</a></td>
+</tr>
+
+<tr>
+	<td>Uni projects</td>
+	<td><img width="150px" src="https://github.com/HTsuyoshi/dsid-ep-1/blob/main/example.png?raw=true"></td>
+	<td><a href="https://github.com/HTsuyoshi/getby">GetBy</a>,
+	<a href="https://github.com/HTsuyoshi/dsid-ep-1">DSID project</a></td>
+</tr>
+
+</table>
+
+</div>
+
+![Tsu’s github stats](https://github-readme-stats.vercel.app/api?username=HTsuyoshi&theme=radical&layout=compact&hide_title=true&hide_border=true&show_icons=true)
+![Tsu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTsuyoshi&theme=radical&layout=compact&hide_border=true&hide_title=true&exclude_repo=dwm-config,st-config&langs_count=10)
+
+![Profile views](https://komarev.com/ghpvc/?username=htsuyoshiy&color=ea00ea&label=Profile%20Views)
