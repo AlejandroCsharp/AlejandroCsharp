@@ -18,6 +18,7 @@ I'm a IT in current formation, Argentina
 	<td>LaTeX</td>
 	<td><img width="150px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/LaTeX_logo.svg.png"></td>
 	<td><a href="https://github.com/AlejandroCsharp/Math-Guide">Math-Guide</a>
+	<td><a href="https://github.com/AlejandroCsharp/random-faculty">Random-Faculty</a>
 </tr>
 <tr>
 	<td>Security</td>
@@ -34,7 +35,10 @@ I'm a IT in current formation, Argentina
 <tr>
 	<td>Personal Projects</td>
 	<td><img width="200" height="200" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/8de865d66660667187b5083d5bb3c860.png"></td>
-        <td>No REF</td>
+        <td><a href="https://github.com/AlejandroCsharp/Notes">IT-Notes</a>
+	<td><a href="https://github.com/AlejandroCsharp/Cybersecurity-Roadmap">Roadmap</a>
+        <td><a href="https://github.com/AlejandroCsharp/grocery-tracking-app">Grocery-App</a>
+	<td><a href="https://github.com/AlejandroCsharp/ManimCE-tutorial">Manim</a>
 
 </tr>
 
