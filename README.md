@@ -10,7 +10,7 @@ I'm a IT in current formation, Argentina
 </tr>
 <tr>
 	<td>Linux</td>
-        <td><img widht="1px" src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/1d56c73599ac59f627d64a865ecae7fe%20(1).png"></td>
+        <td><img " src="https://github.com/AlejandroCsharp/AlejandroCsharp/blob/main/assets/1d56c73599ac59f627d64a865ecae7fe%20(1).png"></td>
 	<td>No REF</td>
 	
 </tr>
