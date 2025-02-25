@@ -20,19 +20,12 @@ I'm a IT in current formation, Argentina
 	<td><img width="150px" src="https://github.com/HTsuyoshi/nier-automata-latex-template/blob/main/output.png?raw=true"></td>
 	<td><a href="[https://github.com/AlejandroCsharp/Math-Guide]">Math-Guide</a>
 </tr>
-
+[comment]: <> (This is a comment, it will not be included)
 <tr>
 	<td>Security</td>
 	<td>No preview</td>
 
 </tr>
-
-
-<tr>
-	<td>Uni projects</td>
-
-</tr>
-
 </table>
 
 </div>
