@@ -8,16 +8,14 @@ I'm a IT in current formation, Argentina
 
 <hr/>
 
-<img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'>  
+
 
 {  
 
-* 👂 `My name is`: **Sammwy**,
-* 👩 `Pronouns`: **She/Her**,
+* 👂 `My name is`: **Alejandro**,
 * ⚡ `I'm`: **22 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
-* ❤️ `I love`: **Caramel macchiato**  ,
-* 💻 `Favorite lang`: **Rust & TypeScript**  
+* 🌱 `I’m currently learning`: **Linux**,
+* 💻 `Favorite lang`: **Python & Dart**  
 
 }
 
