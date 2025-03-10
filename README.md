@@ -5,10 +5,6 @@ I'm a IT in current formation, Argentina
 <p align="center">
 </p>
 
-<hr/>
-
-
-
 
 
 * 👂 `My name is`: **Alejandro**,
