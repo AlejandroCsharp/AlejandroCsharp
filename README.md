@@ -8,7 +8,7 @@ I'm a IT in current formation, Argentina
 
 
 * 👂 `My name is`: **Alejandro**,
-* ⚡ `I'm`: **22 years old**,
+*  ⚡ `I'm`: **22 years old**,
 * 🌱 `I’m currently learning`: **Linux**,
 * 💻 `Favorite lang`: **Python & Dart**  
 
